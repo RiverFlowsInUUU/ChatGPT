@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://beebom.com/wp-content/uploads/2023/05/Microsoft-Bing-AI.png?quality=75&strip=all">
-  <img alt="NebulaGraph Data Intelligence Suite(ngdi)" src="https://beebom.com/wp-content/uploads/2023/05/Microsoft-Bing-AI.png?quality=75&strip=all">
+  <source media="(prefers-color-scheme: dark)" srcset="https://www.androidheadlines.com/wp-content/uploads/2023/03/Bing-AI-Logo-AH-1420x799.webp">
+  <img alt="NebulaGraph Data Intelligence Suite(ngdi)" src="https://www.androidheadlines.com/wp-content/uploads/2023/03/Bing-AI-Logo-AH-1420x799.webp">
 </picture>
 <p align="center">
 
