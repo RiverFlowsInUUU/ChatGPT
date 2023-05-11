@@ -1,4 +1,4 @@
-  # New Bing in Chrome
+  # New Bing ❤ Chrome
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RiverFlowsInUUU/ChatGPT/main/New%20Bing%20in%20Chrome.webp">
