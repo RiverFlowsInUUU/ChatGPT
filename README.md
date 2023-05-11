@@ -1,8 +1,8 @@
   # New Bing in Chrome
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://acf.geeknetic.es/imgri/imagenes/auto/2023/3/10/v35-como-usar-el-chat-de-bing-en-google-chrome.jpg?f=webp">
-  <img alt="NebulaGraph Data Intelligence Suite(ngdi)" src="https://acf.geeknetic.es/imgri/imagenes/auto/2023/3/10/v35-como-usar-el-chat-de-bing-en-google-chrome.jpg?f=webp">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RiverFlowsInUUU/ChatGPT/main/New%20Bing%20in%20Chrome.webp">
+  <img alt="NebulaGraph Data Intelligence Suite(ngdi)" src="https://raw.githubusercontent.com/RiverFlowsInUUU/ChatGPT/main/New%20Bing%20in%20Chrome.webp">
 </picture>
 <p align="center">
 
