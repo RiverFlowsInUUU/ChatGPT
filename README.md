@@ -3,7 +3,8 @@
   <img alt="NebulaGraph Data Intelligence Suite(ngdi)" src="https://user-images.githubusercontent.com/1651790/224081979-d3aa7867-94a6-4a85-a5d7-603e02360cee.png">
 </picture>
 <p align="center">
-# New Bing
+
+  # New Bing
 -   edge://settings/searchEngines
 -   chrome://settings/searchEngines
 
