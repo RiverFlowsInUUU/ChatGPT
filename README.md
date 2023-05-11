@@ -1,8 +1,8 @@
-  # New Bing
+  # New Bing in Chrome
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://i0.wp.com/topaiblog.com/wp-content/uploads/2023/02/Bing-AI-Discover-AI-use-cases-AI-Demo.jpg?w=1280&ssl=1">
-  <img alt="NebulaGraph Data Intelligence Suite(ngdi)" src="https://i0.wp.com/topaiblog.com/wp-content/uploads/2023/02/Bing-AI-Discover-AI-use-cases-AI-Demo.jpg?w=1280&ssl=1">
+  <source media="(prefers-color-scheme: dark)" srcset="https://acf.geeknetic.es/imgri/imagenes/auto/2023/3/10/v35-como-usar-el-chat-de-bing-en-google-chrome.jpg?f=webp">
+  <img alt="NebulaGraph Data Intelligence Suite(ngdi)" src="https://acf.geeknetic.es/imgri/imagenes/auto/2023/3/10/v35-como-usar-el-chat-de-bing-en-google-chrome.jpg?f=webp">
 </picture>
 <p align="center">
 
