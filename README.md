@@ -1,8 +1,8 @@
   # New Bing ❤ Chrome
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RiverFlowsInUUU/ChatGPT/main/New%20Bing%20in%20Chrome.webp">
-  <img alt="NebulaGraph Data Intelligence Suite(ngdi)" src="https://raw.githubusercontent.com/RiverFlowsInUUU/ChatGPT/main/New%20Bing%20in%20Chrome.webp">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RiverFlowsInUUU/ChatGPT/main/New%20Bing%20in%20Chrome.png">
+  <img alt="NebulaGraph Data Intelligence Suite(ngdi)" src="https://raw.githubusercontent.com/RiverFlowsInUUU/ChatGPT/main/New%20Bing%20in%20Chrome.png">
 </picture>
 <p align="center">
 
